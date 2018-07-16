@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consul/consul.iml" filepath="$PROJECT_DIR$/consul/consul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consul-comsumer/consul-comsumer.iml" filepath="$PROJECT_DIR$/consul-comsumer/consul-comsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consul-hystrix-dashboard-turbine/consul-hystrix-dashboard-turbine.iml" filepath="$PROJECT_DIR$/consul-hystrix-dashboard-turbine/consul-hystrix-dashboard-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaclient/eurekaclient.iml" filepath="$PROJECT_DIR$/eurekaclient/eurekaclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloudTest.iml" filepath="$PROJECT_DIR$/springCloudTest.iml" />
+    </modules>
+  </component>
+</project>

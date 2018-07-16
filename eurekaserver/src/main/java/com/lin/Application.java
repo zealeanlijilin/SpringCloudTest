@@ -11,5 +11,4 @@ public class Application {
         new SpringApplicationBuilder(Application.class)
                 .web(true).run(args);
     }
-    //123
 }
